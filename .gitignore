@@ -1,0 +1,10 @@
+
+# Python
+*.pyc
+
+# Output files
+*.png
+index.html
+
+# Backup files
+*backup*
